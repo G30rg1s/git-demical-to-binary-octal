@@ -84,7 +84,7 @@ public class DemicalToBinaryAndOctal {
                 break;
 
             default:
-                System.out.printf("den uparxei auth h epilogh");
+                System.out.printf("---> NO SUCH CHOISE---TRY AGAIN <---");
 
         }
 
